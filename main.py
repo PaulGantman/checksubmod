@@ -4,7 +4,7 @@ from aiogram import Bot, Dispatcher, types, executor
 from aiogram.contrib.fsm_storage.memory import MemoryStorage
 from aiogram.dispatcher.filters import ChatMember
 
-API_TOKEN = '5990898480:AAFVcjio4JpbOsG4dv7oZZFai42kCE5XUr0'
+API_TOKEN = ''
 CHAT_ID = '-1001263394243'
 CHANNEL_USERNAME = 'KvartirochkaOfficial'
 
